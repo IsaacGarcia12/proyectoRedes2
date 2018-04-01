@@ -87,6 +87,8 @@ public class worker implements Runnable {
 
         } catch (IOException e) {
             e.printStackTrace();
+        }finally{
+            ss.close();
         }
     }
 
