@@ -1,0 +1,12 @@
+Instrucciones de uso 
+
+1.-En servidor.java modificar url del 'sender.txt' de acuerdo a donde se vaya a guardar el archivo
+2.-En cliente.java modificar la url del 'FileOutpuStream' que es donde se almacenara el archivo.
+3.-En worker.java modificar la url dentro de 'Run' que es donde se almacenaran los fragmentos del archivo.
+
+4.-Compilar y ejecutar la clase worker
+5.-Compilar y ejecutar la clase servidor
+6.-Compilar y ejecutar la clase cliente
+
+Fin
+	
